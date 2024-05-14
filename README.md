@@ -142,7 +142,7 @@ The following diagram plots the scatter plots of the residuals to check if the n
 
 ![Img_6](Images/hsc.png)
 
-<p align="center"><strong>Figure 8. Feature Distribution after normalization </strong></p>
+<p align="center"><strong>Figure 9. Feature Distribution after normalization </strong></p>
 
 **3.1.2 Running Pycaret**
 
@@ -150,7 +150,7 @@ Since our dataset did not satisfy the assumptions of linear regression, I used P
 
 ![Img_6](Images/py.png)
 
-<p align="center"><strong>Figure 9. Pycaret best fit model</strong></p>
+<p align="center"><strong>Figure 10. Pycaret best fit model</strong></p>
 
 **3.1.3 Decision Tree Regressor**
 
